@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ParkThis</string>
+    <string name="title_activity_locations">Map</string>
+    <string-array name="pLottypes_array">
+        <item>
+            ParkingLot Id
+        </item>
+        <item>Number of Spaces</item>
+        <item>Number of Handicapped Spaces</item>
+        <item>Membership Required?</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
